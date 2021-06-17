@@ -1,3 +1,4 @@
+//Criação Tabela Pedidos
 import * as Knex from 'knex';
 
 export async function up(knex: Knex): Promise<void> { 
